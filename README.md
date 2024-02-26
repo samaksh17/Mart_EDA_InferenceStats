@@ -3,10 +3,8 @@ Analyze Shopping mart data and make inference using Statistics
 
 Shopping Mart is an American multinational retail corporation that operates a chain of supercenters, discount departmental stores, and grocery stores from the United States. Walmart has more than 100 million customers worldwide.
 
-Business Problem:
-
-- The Management team at Mart Inc. wants to analyze the customer purchase behavior (specifically, purchase amount) against the customer’s gender and the various other factors to help the business make better decisions
-- They want to understand if the spending habits differ between male and female customers: Do women spend more on Black Friday than men? (Assume 50 million customers are male and 50 million are female).
+- Analyzed customer purchase behaviour against customer’s gender and various other factors to help business make better decisions.
+- Use inferential statistics to calculate confidence interval and distribution of mean expenses by customer gender. Utilized different sample sizes and bootstrapping principle.
 
 The company collected the transactional data of customers who purchased products from the Stores during Black Friday. The dataset has the following features:
 
